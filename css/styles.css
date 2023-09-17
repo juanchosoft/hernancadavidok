@@ -134,7 +134,9 @@ img.incognito {
 .slick-slide img {
     width: 100% !important;
 }
-
+.icons_social_top a {
+    color: #afd1e2;
+}
 .sld-wrp {
   width: 100%;
   margin: 0 auto;
@@ -459,6 +461,7 @@ ul {
   opacity: 0.75;
   border-bottom: 1px solid #ccc;
   padding: 10px 5px;
+  text-align: justify;
 }
 
 @media (min-width: 768px) {
@@ -4527,7 +4530,7 @@ textarea.form-control-lg {
     overflow-y: visible;
   }
 }
-@media (min-width: 992px) {
+@media (min-width: 1100px) {
   .navbar-expand-lg {
     flex-wrap: nowrap;
     justify-content: flex-start;
@@ -8708,8 +8711,15 @@ textarea.form-control-lg {
 }
 
 .bg-secondary {
-  --bs-bg-opacity: 1;
-  background-color: #fff !important;
+    --bs-bg-opacity: 1;
+/*    background-image: url(https://www.toptal.com/designers/subtlepatterns/uploads/tiny-squares.png);
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/uploads/full-bloom.png);
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/uploads/what-the-hex.png);
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/uploads/funky-lines.png);*/
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/uploads/hypnotize.png);
+/*    background-image: url(https://www.toptal.com/designers/subtlepatterns/uploads/wall4.png);
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/uploads/gplaypattern.png);
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/uploads/worn_dots.png);*/
 }
 
 .bg-success {
@@ -11471,7 +11481,7 @@ html {
   align-items: center;
 }
 .items-menu{
-  background-color: #f4f4f4;
+  background-color: #25346a;
 }
 li.nav-item.social {
     display: initial;
@@ -11489,7 +11499,7 @@ li.nav-item.social {
   font-weight: 700;
 }
 #mainNav2 {
-  padding-top: 1rem;
+  padding-top: 0rem;
   padding-bottom: 0rem;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 700;
@@ -11508,7 +11518,7 @@ li.nav-item.social {
   margin: 0 auto;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link , #mainNav2 .navbar-nav li.nav-item a.nav-link{
-  color: #25346a;
+  color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:hover , #mainNav2 .navbar-nav li.nav-item a.nav-link:hover{
   color: #55b3e4;
@@ -11643,4 +11653,119 @@ li.nav-item.social {
 
 .copyright {
   background-color: #001639;
+}
+
+
+/*///////////////////////RESPONSIVE PERSONALIZADO////////////////////////////////////*/
+
+@media (max-width: 1420px) {
+  .icons_social_top .btn-social {
+    width: 1.5rem;
+  }
+}
+
+@media (max-width: 1300px) {
+  .icons_social_top {
+    display: none;
+  }
+}
+
+@media (max-width: 675px) {
+  ul#ulsocial {
+    display: none;
+  }
+  #mainNav .navbar-brand img, #mainNav2 .navbar-brand img {
+    width: 200px;
+    padding: 15px 0 15px 15px;
+  }
+  #sliderhome {
+    margin-top: 98px !important;
+  }
+  .openmenu {
+    top: 7px;
+    position: relative;
+  }
+  .menu_left {
+    top: 98px;
+  }
+  .closee {
+    top: -74px;
+  }
+  .star-top {
+    margin-top: 97px;
+  }
+  .page-title , .page-title2 , .page-title3 , .page-title4 , .page-title5{
+    padding-top: 5rem;
+    padding-bottom: 4rem;
+  }
+  .star-top h2.display-5.mb-4 {
+    margin-bottom: 5px !important;
+    font-size: 23px;
+  }
+  .page-section {
+    padding: 1rem 0;
+  }
+  .section-title h2 {
+    font-size: 25px;
+  }
+  .data-content {
+    width: calc(100% - 0px);
+  }
+  .data-content h5 {
+    margin: 0px !important;
+  }
+  .data-content ul {
+    padding: 0px !important;
+  }
+  .page-section .page-section-heading {
+    font-size: 1.4rem;
+    line-height: 1.6rem;
+    margin-bottom: 0px !important;
+    margin-top: 15px;
+  }
+  .lead {
+    font-size: 1rem;
+  }
+  .footer .btn-social {
+    width: 2.2rem;
+    height: 2.25rem;
+    font-size: 1rem;
+  }
+  nav#mainNav{
+    display: none !important;
+  }
+  nav#mainNav2{
+    display: block !important;
+  }
+  .slider-for p {
+    bottom: 0px;
+    font-size: 9px;
+    padding: 10px 25px 10px 23px;
+    border-radius: 0px 20px 9px 0px;
+    letter-spacing: 1px;
+    box-shadow: 1px 2px 4px #00000033;
+  }
+  img.incognito{
+    display: none;
+  }
+  .content_items {
+    background-color: #ffffffed;
+  }
+  .ulitemsleft .nav-link a {
+    color: #ffffff;
+  }
+  .form-floating > .form-select {
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+  }
+  .form-floating > .form-control, .form-floating > .form-control-plaintext, .form-floating > .form-select {
+    height: 4rem;
+    line-height: 1;
+  }
+  #contactForm .form-select {
+    padding: 0.7rem 2rem 0.2rem 0.78em;
+  }
+  .form-floating label {
+    font-size: 1rem;
+  }
 }

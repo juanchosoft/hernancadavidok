@@ -19,10 +19,10 @@
         </a>
     </div>
     <div class="container-fluid items-menu" >
-        <button class="navbar-toggler text-uppercase font-weight-bold bg-primary text-white rounded" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <!-- <button class="navbar-toggler text-uppercase font-weight-bold bg-primary text-white rounded" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             Menu
             <i class="fas fa-bars"></i>
-        </button>
+        </button> -->
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ms-auto">
                 <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3" href="index.php">Inicio</a></li>
@@ -33,7 +33,7 @@
                 <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3" href="prensa.php">Prensa</a></li>
                 <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3" href="contacto.php">Contacto</a></li>
             </ul>   
-            <ul class="m-0 p-0 text-center">
+            <ul class="m-0 p-0 text-center icons_social_top">
                 <li class="nav-item social"><a class="btn btn-social" href="https://twitter.com/hernancadavidma?s=21&t=qVHICuUmZoXurSDbVBEtTg" target="_blank"><i class="fa-brands fa-x-twitter"></i></a></li>
                 <li class="nav-item social"><a class="btn btn-social" href="https://www.facebook.com/hernancadavidma?mibextid=LQQJ4d "  target="_blank"><i class="fab fa-fw fa-facebook-f"></i></a></li>
                 <li class="nav-item social"><a class="btn btn-social" href="https://instagram.com/hernancadavidma?igshid=MzRlODBiNWFlZA==" target="_blank"><i class="fab fa-fw fa-instagram"></i></a></li>

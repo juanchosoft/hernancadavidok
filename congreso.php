@@ -26,7 +26,7 @@
                             <div class="job-box d-md-flex align-items-center justify-content-between mb-30">
                                 <div class="my-3 d-md-flex align-items-center flex-wrap">
                                     <div class="img-holder mr-md-4 mb-md-0 mb-4 mx-auto mx-md-0 d-md-none d-lg-flex">
-                                    
+                                    ECT
                                     </div>
                                     <div class="data-content">
                                         <h5 class="ms-4 mb-0">ELIMINACIÓN CONTRALORÍAS TERRITORIALES</h5>
@@ -45,7 +45,7 @@
                             <div class="job-box d-md-flex align-items-center justify-content-between mb-30">
                                 <div class="my-3 d-md-flex align-items-center flex-wrap">
                                     <div class="img-holder mr-md-4 mb-md-0 mb-4 mx-auto mx-md-0 d-md-none d-lg-flex">
-                                       
+                                       RM
                                     </div>
                                     <div class="data-content">
                                         <h5 class="ms-4 mb-0"> REVOCATORIA DEL MANDATO </h5>
@@ -64,7 +64,7 @@
                             <div class="job-box d-md-flex align-items-center justify-content-between mb-30">
                                 <div class="my-3 d-md-flex align-items-center flex-wrap">
                                     <div class="img-holder mr-md-4 mb-md-0 mb-4 mx-auto mx-md-0 d-md-none d-lg-flex">
-                                
+                                    ECT
                                     </div>
                                     <div class="data-content">
                                         <h5 class="ms-4 mb-0">ELIMINACIÓN CONTRALORÍAS TERRITORIALES </h5>
@@ -83,7 +83,7 @@
                             <div class="job-box d-md-flex align-items-center justify-content-between mb-30">
                                 <div class="my-3 d-md-flex align-items-center flex-wrap">
                                     <div class="img-holder mr-md-4 mb-md-0 mb-4 mx-auto mx-md-0 d-md-none d-lg-flex">
-                                
+                                    ECT
                                     </div>
                                     <div class="data-content">
                                         <h5 class="ms-4 mb-0">ELIMINACIÓN CONTRALORÍAS TERRITORIALES</h5>
@@ -112,17 +112,13 @@
                 <div class="row">
                     <div class="section-title pb-2">
                         <h2>Control político <small> (debates, mociones y denuncias)</small></h2>
-                       
                     </div>
-                    <div class="job-right my-4 ">
-                                   
-                                </div>
-                            </div>
-
+                    <div class="career-search mb-60">
+                        <div class="filter-result">
                             <div class="job-box d-md-flex align-items-center justify-content-between mb-30">
                                 <div class="my-3 d-md-flex align-items-center flex-wrap">
                                     <div class="img-holder mr-md-4 mb-md-0 mb-4 mx-auto mx-md-0 d-md-none d-lg-flex">
-                                       
+                                        DCP
                                     </div>
                                     <div class="data-content">
                                         <h5 class="ms-4 mb-0"> DEBATES DE CONTROL POLÍTICO </h5>
@@ -147,7 +143,7 @@ forma ilegal en contra de la señora Marelbys Meza.
                             <div class="job-box d-md-flex align-items-center justify-content-between mb-30">
                                 <div class="my-3 d-md-flex align-items-center flex-wrap">
                                     <div class="img-holder mr-md-4 mb-md-0 mb-4 mx-auto mx-md-0 d-md-none d-lg-flex">
-                                
+                                        MDN
                                     </div>
                                     <div class="data-content">
                                         <h5 class="ms-4 mb-0">Ministro de Defensa Nacional, Dr. Iván Velásquez Gómez </h5>
@@ -170,7 +166,7 @@ ESMAD.
                             <div class="job-box d-md-flex align-items-center justify-content-between mb-30">
                                 <div class="my-3 d-md-flex align-items-center flex-wrap">
                                     <div class="img-holder mr-md-4 mb-md-0 mb-4 mx-auto mx-md-0 d-md-none d-lg-flex">
-                                
+                                        ACP
                                     </div>
                                     <div class="data-content">
                                         <h5 class="ms-4 mb-0">Alto Comisionado para la Paz, Dr. Iván Danilo Rueda Rodríguez </h5>
@@ -198,18 +194,15 @@ al margen de la ley en el Territorio Nacional.
                 </div>
             </div>
         </section>
-        <section class="page-section bg-light">
+        <section class="page-section">
             <div class="container">
                 <div class="row">
                     <div class="section-title pb-2">
                         <h2>Audiencias públicas <small> </small></h2>
-                       
                     </div>
-                    <div class="job-right my-4 ">
-                                   
-                                </div>
-                            </div>
-
+                    
+                    <div class="career-search mb-60">
+                        <div class="filter-result">
                             <div class="job-box d-md-flex align-items-center justify-content-between mb-30">
                                 <div class="my-3 d-md-flex align-items-center flex-wrap">
                                     <div class="img-holder mr-md-4 mb-md-0 mb-4 mx-auto mx-md-0 d-md-none d-lg-flex">

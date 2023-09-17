@@ -1,13 +1,13 @@
 <footer class="footer text-center">
     <div class="container">
         <div class="row">
-            <div class="col-lg-6 mb-5 mb-lg-0">
+            <div class="col-lg-6 mb-lg-0">
                 <h4 class="mb-4"><i class="fa-solid fa-map-location-dot"></i> Ubícame</h4>
                 <p class="lead mb-0">
                     Oficina 423B - Edificio Nuevo del Congreso<br> Bogotá D.C. Colombia
                 </p>
             </div>
-            <div class="col-lg-6 mb-5 mb-lg-0">
+            <div class="col-lg-6 mb-lg-0">
                 <h4 class="mb-4">Síguenos</h4>
                 <a class="btn btn-outline-light btn-social mx-1" href="https://twitter.com/hernancadavidma?s=21&t=qVHICuUmZoXurSDbVBEtTg" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
                 <a class="btn btn-outline-light btn-social mx-1" href="https://www.facebook.com/hernancadavidma?mibextid=LQQJ4d "  target="_blank"><i class="fab fa-fw fa-facebook-f"></i></a>
