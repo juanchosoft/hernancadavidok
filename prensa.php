@@ -19,61 +19,61 @@
                 <div class="row">
                        <div class="col-md-4 mb-4">
                            <div class="card">
-                              <img src="https://dummyimage.com/600x400/f6f6f6/000" class="card-img-top" alt="...">
+                              <img src="assets/img/2.png" class="card-img-top" alt="Hernan Cadavid">
                               <div class="card-body p-5">
-                                <p class="card-text">Nota en Revista semana</p>
-                                <h4 class="card-title mb-2">"Gobierno Petro sigue dando garantías a bandidos" dice Hernán Cadavid </h5>
-                                <a href="#" class="btn btn-primary float-end mt-3">Ver más</a>
+                                <p class="card-text">El COLOMBIANO</p>
+                                <h4 class="card-title mb-2">“El presidente Petro se comporta con sus reformas como un activista de oposición”: representante Hernán Cadavid </h5>
+                                <a href="noti1.php" target="_blank" class="btn btn-primary float-end mt-3">Ver más</a>
                               </div>
                            </div>
                        </div>
                        <div class="col-md-4 mb-4">
                            <div class="card">
-                              <img src="https://dummyimage.com/600x400/f6f6f6/000" class="card-img-top" alt="...">
+                              <img src="assets/img/50.png" class="card-img-top" alt="...">
                               <div class="card-body p-5">
-                                <p class="card-text">Nota en Revista semana</p>
-                                <h4 class="card-title mb-2">"Gobierno Petro sigue dando garantías a bandidos" dice Hernán Cadavid </h5>
-                                <a href="#" class="btn btn-primary float-end mt-3">Ver más</a>
+                                <p class="card-text">EL COLOMBIANO</p>
+                                <h4 class="card-title mb-2">"Reforma a la salud" : Hernán Cadavid </h5>
+                                <a href="noti2.php" class="btn btn-primary float-end mt-3">Ver más</a>
                               </div>
                            </div>
                        </div>                  
                        <div class="col-md-4 mb-4">
                            <div class="card">
-                              <img src="https://dummyimage.com/600x400/f6f6f6/000" class="card-img-top" alt="...">
+                              <img src="assets/img/49.png" class="card-img-top" alt="...">
                               <div class="card-body p-5">
-                                <p class="card-text">Nota en Revista semana</p>
-                                <h4 class="card-title mb-2">"Gobierno Petro sigue dando garantías a bandidos" dice Hernán Cadavid </h5>
-                                <a href="#" class="btn btn-primary float-end mt-3">Ver más</a>
+                                <p class="card-text">SEMANA</p>
+                                <h4 class="card-title mb-2">“No debió suceder y no puede volver a ocurrir”: Hernán Cadavid tras escándalo de Óscar Iván Zuluaga que salpicó al Centro Democrático </h5>
+                                <a href="noti3.php" target="_blank" class="btn btn-primary float-end mt-3">Ver más</a>
                               </div>
                            </div>
                        </div> 
                        <div class="col-md-4 mb-4">
                            <div class="card">
-                              <img src="https://dummyimage.com/600x400/f6f6f6/000" class="card-img-top" alt="...">
+                              <img src="assets/img/3.png" class="card-img-top" alt="...">
                               <div class="card-body p-5">
-                                <p class="card-text">Nota en Revista semana</p>
-                                <h4 class="card-title mb-2">"Gobierno Petro sigue dando garantías a bandidos" dice Hernán Cadavid </h5>
-                                <a href="#" class="btn btn-primary float-end mt-3">Ver más</a>
+                                <p class="card-text">EL REVERBERO DE JUAN PAZ </p>
+                                <h4 class="card-title mb-2">Hernán Cadavid: un fructífero año en la Cámara de Representantes</h5>
+                                <a href="noti4.php" target="_blank" class="btn btn-primary float-end mt-3">Ver más</a>
                               </div>
                            </div>
                        </div>
                        <div class="col-md-4 mb-4">
                            <div class="card">
-                              <img src="https://dummyimage.com/600x400/f6f6f6/000" class="card-img-top" alt="...">
+                              <img src="assets/img/70.jpg" class="card-img-top" alt="...">
                               <div class="card-body p-5">
-                                <p class="card-text">Nota en Revista semana</p>
-                                <h4 class="card-title mb-2">"Gobierno Petro sigue dando garantías a bandidos" dice Hernán Cadavid </h5>
-                                <a href="#" class="btn btn-primary float-end mt-3">Ver más</a>
+                                <p class="card-text">BLU RADIO </p>
+                                <h4 class="card-title mb-2">"No se tocarán vacaciones o salarios, lo único que se reduce es la jornada laboral": Hernán Cadavid </h5>
+                                <a href="noti5.php" target="_blank" class="btn btn-primary float-end mt-3">Ver más</a>
                               </div>
                            </div>
                        </div>    
                        <div class="col-md-4 mb-4">
                            <div class="card">
-                              <img src="https://dummyimage.com/600x400/f6f6f6/000" class="card-img-top" alt="...">
+                              <img src="assets/img/71.jpeg" class="card-img-top" alt="...">
                               <div class="card-body p-5">
-                                <p class="card-text">Nota en Revista semana</p>
-                                <h4 class="card-title mb-2">"Gobierno Petro sigue dando garantías a bandidos" dice Hernán Cadavid </h5>
-                                <a href="#" class="btn btn-primary float-end mt-3">Ver más</a>
+                                <p class="card-text">EL COLOMBIANO </p>
+                                <h4 class="card-title mb-2">“El presidente Gustavo Petro tiene un liderazgo que es tóxico para el país”: representante Hernán Cadavid</h5>
+                                <a href="noti6.php" target="_blank" class="btn btn-primary float-end mt-3">Ver más</a>
                               </div>
                            </div>
                        </div>                                                                                                                                  

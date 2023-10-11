@@ -2,7 +2,8 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-6 mb-lg-0">
-                <h4 class="mb-4"><i class="fa-solid fa-map-location-dot"></i> Ubícame</h4>
+                <h6 class="mb-1"><i class="fa-solid fa-map-location-dot"></i> Ubícame  <img src="assets/img/Logo-Hernan-Cadavid.png" class="" alt="" width="100px"></h6>
+              
                 <p class="lead mb-0">
                     Oficina 423B - Edificio Nuevo del Congreso<br> Bogotá D.C. Colombia
                 </p>

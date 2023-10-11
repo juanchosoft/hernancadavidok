@@ -38,8 +38,13 @@
 
                 <!-- About Section Content-->
                 <div class="row">
-                    <div class="col-lg-6 ms-auto"><p class="lead text-justify p-3">Representante a la Cámara electo para el periodo 2022-2026 siendo la votación más alta del partido Centro Democrático en el departamento de Antioquia, con 56.244 Votos.</p></div>
-                    <div class="col-lg-6 me-auto"><p class="lead text-justify p-3">Comisiones Constitucionales: Primera - Comisión Legal: Investigación y de Acusaciones - Miembro de Circunscripción Territorial: Antioquia</p></div>
+                    <div class="col-lg-6 ms-auto"><p class="lead text-justify p-3">Ciudadano Colombiano
+Representante a la Cámara por Antioquia 2022-2026
+Por el Partido Centro Democrático
+Comisiones Constitucionales: Primera 
+Comisión Legal: Investigación y de Acusaciones 
+.</p></div>
+                    <div class="col-lg-6 me-auto"><p class="lead text-justify p-3">Somos grupo de más de 56 mil antioqueños que compartimos la misma visión de país; promoviendo la defensa de la democracia, la institucionalidad y la justicia como los pilares que mantienen nuestra nación en orden.</p></div>
                 </div>
 
             </div>

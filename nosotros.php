@@ -23,7 +23,9 @@
                     <div class="col-lg-6">
                         <div class="section-title">
                             <h2>HERNÁN CADAVID</h2>
-                            <p>Somos grupo de más de 56 mil antioqueños que compartimos la misma visión de país; promoviendo la defensa de la democracia, la institucionalidad y la justicia como los pilares que mantienen nuestra nación en orden.</p>
+                            <p>Abogado de la Universidad de Medellín.
+Especialista en Derecho Público y Acciones Constitucionales de la Universidad de Medellín. 
+</p>
                         </div>
                     </div>
                 </div>
@@ -71,7 +73,7 @@
                                     </div>
                                     <!-- <span class="time">2018 - 2023</span> -->
                                     <h5>Otros</h5>
-                                    <p>Magister en Derechos Humanos, Derecho Internacional Humanitario y Estudio de los Conflictos Armados en la Escuela Superior de Guerra.</p>
+                                    <p>Candidato a Magister en Derechos Humanos, Derecho Internacional Humanitario y Estudio de los Conflictos Armados en la Escuela Superior de Guerra.</p>
                                 </li>
                             </ul>
                         </div>
